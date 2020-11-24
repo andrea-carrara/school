@@ -9,6 +9,6 @@ Every school note I ever made. That's right! From high school through college, e
 
 ## Elements
 
-1. I discored how to write inline math on GitBook: Conderata la distanza $$d = \Delta V \cdot \vec{E}$$ si deduce:
+1. I discored how to write inline math on GitBook: Conderata la distanza $$d = \Delta V \cdot \vec{B}$$ si deduce:
 2. I am loving this!
 
