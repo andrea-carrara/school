@@ -6,3 +6,7 @@
 
 * [Magnetismo](fisica/magnetismo.md)
 
+## Informatica
+
+* [C++](informatica/c++.md)
+
