@@ -2,3 +2,7 @@
 
 * [School](README.md)
 
+## Fisica
+
+* [Magnetismo](fisica/magnetismo.md)
+
