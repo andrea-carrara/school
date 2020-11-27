@@ -4,6 +4,6 @@
 
 ## Gruppo
 
-* [Ciao](gruppo/ciao/README.md)
+* [Ciao](gruppo/ciao/ciao.md)
   * [Prova](gruppo/ciao/prova.md)
 
