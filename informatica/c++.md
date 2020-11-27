@@ -52,7 +52,7 @@ La amo.
 
 Questo è un link:
 
-{% page-ref page="../fisica/magnetismo.md" %}
+{% page-ref page="../fisica/magnetismo/" %}
 
 {% tabs %}
 {% tab title="Primo" %}

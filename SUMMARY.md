@@ -4,7 +4,8 @@
 
 ## Fisica
 
-* [Magnetismo](fisica/magnetismo.md)
+* [Magnetismo](fisica/magnetismo/README.md)
+  * [Spira circolare](fisica/magnetismo/spira-circolare.md)
 
 ## Informatica
 
