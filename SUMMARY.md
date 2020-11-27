@@ -1,4 +1,4 @@
 # Table of contents
 
-* [School](README.md)
+* [Introduction](README.md)
 
